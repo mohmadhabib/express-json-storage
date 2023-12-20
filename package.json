@@ -1,0 +1,21 @@
+{
+  "name": "RedisJsonStorage",
+  "version": "1.0.0",
+  "description": "This is sample of Json Storage Using Redis and ExpressJS",
+  "main": "script.js",
+  "scripts": {
+    "dev": "nodemon script.js"
+  },
+  "keywords": [],
+  "author": "MohmadHabib",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "redis": "^4.6.11"
+  }
+}
