@@ -8,7 +8,7 @@ you can adjust the setteings by creating `.env` file and put these Variables and
 REDIS_HOST
 REDIS_PORT
 REDIS_PASS
-// your Secret which is used as password
+// your Secret which is used as password to Auth in The System
 SUGAR
 AUTH_TOKEN
 ```
